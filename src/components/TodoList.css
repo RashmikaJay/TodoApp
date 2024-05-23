@@ -1,0 +1,16 @@
+.todo-list-container{
+    width: 80%;
+    margin: 0 auto;
+    background-color: white;
+    min-height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.todo-list-wrapper{
+    margin: 0 auto;
+    width: 80%;
+    
+
+}
